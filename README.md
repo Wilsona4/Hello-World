@@ -1,11 +1,11 @@
 # Hello-World
 My first Git Respository
- function XYZ(){
+ function Wil(){
  
-       const id = 'HNG-XYZ';
-    const email = 'XYXY@gmail.com';
+       const id = 'HNG-02720';
+    const email = 'wilsonahanmisi@gmail.com';
   const language = 'javascript';
- const fullname = 'XYZ XYZ';
+ const fullname = 'Ahanmisi Wilson';
  
  
  
@@ -15,5 +15,5 @@ My first Git Respository
  
  }
  
- XYZ();
+ Wil();
 
