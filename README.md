@@ -17,6 +17,3 @@ My first Git Respository
  
  Wil();
 
-
-
-https://fd551eac-aa51-462d-a66d-e188b1aa0e61.ws-eu01.gitpod.io/#/workspace/team-fury-1
